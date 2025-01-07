@@ -1,4 +1,4 @@
-![logo](https://github.com/ahmedhamdandeveloper/ahmedhamdandeveloper/blob/main/my%20created%20banner.jpg)
+![logo](https://github.com/ahmedhamdandeveloper/ahmedhamdandeveloper/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png)
 <h1 align="center">Assalam Walaikum,👋 I'm Ahmed Hamdan</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjI5ajFmbW9sbjdubnVwNHRsZmZvNnQyMXpiNGo1ajF2aWlvdXp0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.webp>
